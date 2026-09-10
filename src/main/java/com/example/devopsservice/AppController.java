@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class AppController {
     @GetMapping("/")
     public String index() {
-        return "Hello World~~!!!";
+        return "GOOD DAY GODD!!!";
     }
     
 }
